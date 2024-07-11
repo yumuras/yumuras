@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @yumuras
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-yumuras/yumuras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yumuras&theme=solarized_dark" />
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuras&layout=compact&show_icons=true&theme=merko" />
+  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yumuras&theme=gruvbox" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yumuras&theme=radical&column=8
+)](https://github.com/ryo-ma/github-profile-trophy)
